@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/devinit.schema-2.0",
+  "run": [
+    {
+      "comments": "Installs the body-parser package.",
+      "tool": "npm-install",
+      "input": "body-parser"
+    },
+    {
+      "comments": "Installs the cookie-parser package.",
+      "tool": "npm-install",
+      "input": "cookier-parser"
+    },
+    {
+      "comments": "Installs the debug package.",
+      "tool": "npm-install",
+      "input": "debug"
+    },
+    {
+      "comments": "Installs the express package.",
+      "tool": "npm-install",
+      "input": "express"
+    },
+    {
+      "comments": "Installs the morgan package.",
+      "tool": "npm-install",
+      "input": "morgan"
+    },
+    {
+      "comments": "Installs the pug package.",
+      "tool": "npm-install",
+      "input": "pug"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\kellyfam\source\repos\DevinitExample2\DevinitExample2\obj\Debug\DevinitExample2.njsprojAssemblyReference.cache
+C:\Users\kellyfam\source\repos\DevinitExample2\DevinitExample2\obj\Debug\DevinitExample2.njsproj.CoreCompileInputs.cache
+C:\Users\kellyfam\source\repos\DevinitExample2\DevinitExample2\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\kellyfam\source\DevinitExample2\DevinitExample2\obj\Debug\DevinitExample2.njsprojAssemblyReference.cache
+C:\Users\kellyfam\source\DevinitExample2\DevinitExample2\obj\Debug\DevinitExample2.njsproj.CoreCompileInputs.cache
+C:\Users\kellyfam\source\DevinitExample2\DevinitExample2\bin\Microsoft.NodejsTools.WebRole.dll
