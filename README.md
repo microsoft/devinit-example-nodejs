@@ -1,4 +1,4 @@
-# DevinitExample2
+# Node.js Devinit Example
 
 A small example of a Node.js Express project that utilizes [devinit](https://docs.microsoft.com/en-us/visualstudio/devinit).
 
