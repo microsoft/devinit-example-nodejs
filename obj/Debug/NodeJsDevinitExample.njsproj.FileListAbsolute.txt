@@ -1,0 +1,3 @@
+C:\Users\kellyfam\source\repos\DevinitExample2\obj\Debug\NodeJsDevinitExample.njsprojAssemblyReference.cache
+C:\Users\kellyfam\source\repos\DevinitExample2\obj\Debug\NodeJsDevinitExample.njsproj.CoreCompileInputs.cache
+C:\Users\kellyfam\source\repos\DevinitExample2\bin\Microsoft.NodejsTools.WebRole.dll
